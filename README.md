@@ -1,4 +1,4 @@
-# price_it
+# mac_task
 
 A new Flutter project.
 
